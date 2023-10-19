@@ -28,6 +28,7 @@ function porcentajeX(chicos, chicas){
     //Un colegio desea saber qué porcentaje de niños y qué porcentaje de niñas hay en el curso
     //actual. Diseñar un algoritmo para este propósito. Recuerda que para calcular el porcentaje
     //puedes hacer una regla de 3 simple.
+    // Deberás devolver el porcentaje de chicas que hay en el curso.
     //Tu código 👇:
 
 }
