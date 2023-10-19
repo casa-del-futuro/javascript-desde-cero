@@ -12,11 +12,7 @@ function salario(personal, exp){
     // mayor o igual a 20 años, el bono es de $15.000. tendrás que retornar un mensaje con el nombre del personal y el bono correspondiente
     // Ejemplo: "Pedro tu bono es de $10.000"
     // Tu código:👇
-    let experiencia = exp
-    switch(experiencia){
-        case experiencia <= 5:
-            return `${personal} tu bono es de $10.000`
-    }
+    
 }
 
 function numPar(num){
